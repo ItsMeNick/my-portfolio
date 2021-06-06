@@ -2,7 +2,7 @@
   "name": "my-portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://ItsMeNick.github.io/my-portfolio",
+  "homepage": "https://ItsMeNick.github.io/my-portfolio",
   "dependencies": {
     "@carbon/icons-react": "^10.33.0",
     "@carbon/themes": "^10.35.0",
