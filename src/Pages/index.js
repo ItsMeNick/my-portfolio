@@ -8,7 +8,7 @@ import Education from './Education';
 
 const Pages= ({user}) =>{
     return (
-        <Router>
+        <Router basename="/test_repository">
             <Switch>
                 <Route exact path ='/'>
                     <Profile user={user} />
