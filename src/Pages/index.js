@@ -10,6 +10,9 @@ const Pages= ({user}) =>{
     return (
         <Router>
             <Switch>
+                <Route exact path ='/my-portfolio'>
+                    <Profile user={user} />
+                </Route>
                 <Route exact path ='/'>
                     <Profile user={user} />
                 </Route>
